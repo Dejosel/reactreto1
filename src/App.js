@@ -5,9 +5,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">        
-        <h1 className="App-title">Welcome to React</h1>        
+        <h1 className="App-title">Mi primera aplicación</h1>        
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Esta es mi primera aplicación en React, está padrísimo!
         </p>
       </div>
     );
